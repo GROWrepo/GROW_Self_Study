@@ -19,9 +19,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{9C76D359-650B-4C52-B153-7BD444726063}</ProjectGuid>
+    <ProjectGuid>{1AC2D958-8F56-4D4A-AD28-65C6374C58CE}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>GROW_Effective_CPP</RootNamespace>
+    <RootNamespace>KFGD_Effective_CPP</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
